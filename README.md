@@ -5,8 +5,9 @@ Mentee Assignment from IBM Advance AI @ Infinite Learning
 Course completion of Project Course The Art of Prompt Engineering from CognitiveClass.ai
 ---
 
-Nama: Said M. Razali
-Program: IBM Advance AI
+## Mentee Info
+### Nama: Said M. Razali
+### Program: IBM Advance AI
 
 ## Tech Stack:
 - HTML
